@@ -2,12 +2,16 @@
 ## TO-DOs
 - still try to figure out a way to run it on cluster?
 - make sure each event has the same amount of athletes
-- !! always select boulder if multiple events, example - https://ifsc.results.info/event/1355/
+- add reading event name? for later plotting purpose
+- add legend and beautify the figures
+
 
 ## May 2025
 ### May 29
 - successfully read scores from a finals results page
 - successfully read urls for men & women's finals from an event page
+- always click on boulder to select if multiple events, example - https://ifsc.results.info/event/1355/
+- begin analysis
 
 
 ### May 26
