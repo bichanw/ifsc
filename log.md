@@ -3,10 +3,15 @@
 - still try to figure out a way to run it on cluster?
 - make sure each event has the same amount of athletes
 - add reading event name? for later plotting purpose
-- add legend and beautify the figures
+- plot by player?
+
 
 
 ## May 2025
+### May 30
+- finished scores / std by boulder
+- add legend and beautify the figures
+
 ### May 29
 - successfully read scores from a finals results page
 - successfully read urls for men & women's finals from an event page
