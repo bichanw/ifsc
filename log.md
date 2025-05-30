@@ -1,9 +1,14 @@
 # logbook for progress
 ## TO-DOs
 - still try to figure out a way to run it on cluster?
-- need to parse the score (actually more important for my analysis)
+- make sure each event has the same amount of athletes
+- !! always select boulder if multiple events, example - https://ifsc.results.info/event/1355/
 
 ## May 2025
+### May 29
+- successfully read scores from a finals results page
+- successfully read urls for men & women's finals from an event page
+
 
 ### May 26
 - easily worked with local machine
